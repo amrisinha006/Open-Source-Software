@@ -2,10 +2,6 @@
 
 > A project for the Open Source Software course, involving a detailed audit of the Apache HTTP Server, supported by Linux-based shell scripting assignments.
 
----s
-
----
-
 ## Project Overview
 
 This project presents a comprehensive audit of the **Apache HTTP Server**, one of the most widely deployed open-source web servers in the world. The audit covers:
@@ -149,5 +145,3 @@ The following shell scripting and Linux concepts are demonstrated across the fiv
 This project demonstrates a practical understanding of open-source principles through the lens of the Apache HTTP Server — a cornerstone of the open web. The scripting assignments reinforce foundational Linux administration skills and reflect the values central to open-source culture: transparency, collaboration, and freedom to inspect and modify software. Together, the theoretical audit and practical scripts form a complete study of open-source software in a real-world context.
 
 ---
-
-*Submitted as part of the Open Source Software course assignment.*
