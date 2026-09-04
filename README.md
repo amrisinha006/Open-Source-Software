@@ -1,16 +1,8 @@
-# oss-audit-24BAI10163
+
 
 > A capstone project for the Open Source Software course, involving a detailed audit of the Apache HTTP Server, supported by Linux-based shell scripting assignments.
 
----
-
-## Student Information
-
-| Field                  | Details              |
-|------------------------|----------------------|
-| **Student Name**       | Amritesh Sinha      |
-| **Registration Number**| 24BAI10163         |
-| **Course**             | Open Source Software |
+---s
 
 ---
 
